@@ -1,38 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Programmation musicale - Rhythm & Beans</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Rhythm & Beans</h1>
-    <nav>
-      <ul>
-        <li><a href="index.html">Accueil</a></li>
-        <li><a href="inscription.html">Inscription</a></li>
-        <li><a href="programmation.html">Programmation musicale</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main>
-    <section>
-      <h2>Programmation musicale</h2>
-      <ul>
-        <li>Concert de jazz le 15 mars</li>
-        <li>Concert de rock le 20 avril</li>
-        <li>Concert de musique classique le 25 mai</li>
-      </ul>
-    </section>
-  </main>
-  <footer>
-    <p>&copy; 2023 Rhythm & Beans</p>
-  </footer>
-</body>
-</html>
-
-*CSS*
 body {
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
